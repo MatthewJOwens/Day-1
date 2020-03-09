@@ -1,7 +1,15 @@
 :root {
-  background-color: antiquewhite;
+  --bg: antiquewhite;
+}
+
+body {
+  background-color: var(--bg);
   font-family: 'Roboto', sans-serif;
   display: inline-block;
   margin: 0px auto;
   padding: 0px auto;
+}
+
+p {
+  width: 70%;
 }
