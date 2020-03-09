@@ -15,8 +15,16 @@ div {
   align-items: center;
 }
 
+h1 {
+  margin: 20px;
+}
+
 p {
   width: 70%;
+}
+
+p:hover {
+  text-decoration: underline;
 }
 
 .bio {
