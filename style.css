@@ -10,6 +10,15 @@ body {
   padding: 0px auto;
 }
 
+div {
+  display: block;
+  align-items: center;
+}
+
 p {
   width: 70%;
+}
+
+.bio {
+  margin-left: 20px;
 }
